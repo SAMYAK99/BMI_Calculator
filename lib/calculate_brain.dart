@@ -27,9 +27,9 @@ class CalculatorBrain {
     if (_bmi >= 25) {
       return 'You have a higher than Body Mass Index than a normal Person ';
     } else if (_bmi >= 18.5) {
-      return 'You have a normal body weight. Good job!';
+      return 'You have a normal body mass Index :) ';
     } else {
-      return 'You have a lower than normal body weight. You can eat a bit more.';
+      return 'You have a lower Body Mass Index ';
     }
   }
 }
