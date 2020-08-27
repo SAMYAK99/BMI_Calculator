@@ -1,6 +1,6 @@
-# bmicalculator
+# BMI Calculator
 
-A simple bmi calculator made with flutter and dart 
+A simple Bmi calculator develop in flutter 
 
 ## Screenshot
 <img src="./Screenshots/bmi.JPG" >
